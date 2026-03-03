@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Saurabh 👋
 
-<!--
-**SaurabhJadhav-sql/SaurabhJadhav-sql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring SQL Developer  
+📚 Currently mastering SQL & Database Design  
+💡 Learning query optimization and backend logic  
+🚀 Building real SQL projects  
 
-Here are some ideas to get you started:
+## Skills I'm Working On
+- SQL (Joins, Subqueries, Views, Indexes)
+- Database Design
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+To become a confident and industry-ready SQL Developer.
