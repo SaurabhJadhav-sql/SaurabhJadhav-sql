@@ -9,8 +9,7 @@
 - SQL (Joins, Subqueries, Views, Indexes)
 - Database Design
 - MySQL
-- HTML
-- CSS
+- python 
 
 ## Goal
 To become a confident and industry-ready SQL Developer.
