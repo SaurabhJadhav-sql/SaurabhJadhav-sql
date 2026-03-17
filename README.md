@@ -6,10 +6,10 @@
 🚀 Building real SQL projects  
 
 ## Skills I'm Working On
-- SQL (Joins, Subqueries, Views, Indexes)
+- SQL (Windows Functions, Views, Indexes)
 - Database Design
-- MySQL
-- python 
+- PostgreSQl
+- Python (Data Structures,Data Processing) 
 
 ## Goal
 To become a confident and industry-ready SQL Developer.
